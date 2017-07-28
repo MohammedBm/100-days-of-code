@@ -34,4 +34,4 @@
 
 **Today's Progress**: Tried to use React js read some documentation and did small react tricks. Also fixed UI of the repo with the name Quiz-02 and added like function to ideas
 
-**Link to work**: [github](https://github.com/MohammedBm/CodeCore-Quiz-02)|[heroku](https://evening-temple-83255.herokuapp.com/)
+**Link to work**: [github](https://github.com/MohammedBm/CodeCore-Quiz-02) | [heroku](https://evening-temple-83255.herokuapp.com/)
